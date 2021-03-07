@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=939597&height=150&section=header&text=JayKim-Dev&fontSize=70&fontColor=F5dF4D&animation=twinkling)
 
-<h3 align="center">:computer:Tech Stack:computer:</h3>
+<h3 align="center">:computer: Tech Stack :computer:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
