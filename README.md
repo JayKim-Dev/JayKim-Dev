@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=F5dF4D&height=150&section=header&text=JayKim-Dev&fontSize=70&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F5dF4D&height=150&section=header&text=JayKim-Dev&fontSize=70&fontColor=939597&animation=twinkling)
 
 <h3 align="center">Tech Stack</h3>
 
