@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>
-
+  <img src="https://img.shields.io/badge/TypeScript-4285F4?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 </p>
 
 <p align="center">
