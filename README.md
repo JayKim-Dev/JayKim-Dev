@@ -1,13 +1,9 @@
 ![Jay Kim, @JayKim-Dev](assets/profile-banner-cloud-dancer.png)
 
-I build for the web with **TypeScript** and **React**.
+I build web applications with **Next.js**, **React**, and **TypeScript**.
 
 [Browse my repositories →](https://github.com/JayKim-Dev?tab=repositories)
 
 ## Tech stack
 
-| Area | Technologies |
-| --- | --- |
-| Frontend | React, TypeScript, JavaScript, HTML5, CSS3 |
-| Database | MySQL |
-| Cloud | AWS, Google Cloud |
+**Next.js** · React · TypeScript · JavaScript · HTML5 · CSS3
