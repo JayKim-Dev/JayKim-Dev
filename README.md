@@ -1,4 +1,4 @@
-![Jay Kim, @JayKim-Dev](assets/profile-banner.png)
+![Jay Kim, @JayKim-Dev](assets/profile-banner-cloud-dancer.png)
 
 I build for the web with **TypeScript** and **React**.
 
